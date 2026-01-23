@@ -1,0 +1,3 @@
+-- ORDENA RECORDS DE MAYOR A MENOR
+-- CON BASE AL SCORE
+SELECT score, name FROM second_table WHERE score >=10 ORDER BY score DESC;
