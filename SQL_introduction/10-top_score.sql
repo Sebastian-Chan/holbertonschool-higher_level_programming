@@ -1,3 +1,3 @@
 -- MOSTRAR LISTA DE REGISTROS EN TABLA
-SELECT score,name FROM second_table 
-ORDER BY score,name DESC; 
+SELECT score, name FROM second_table
+ORDER BY score DESC;
