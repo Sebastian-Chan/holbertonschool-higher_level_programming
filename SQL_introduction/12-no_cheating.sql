@@ -1,4 +1,4 @@
 -- ZEILEN MIT EINER NEUEN ID AKTUALISIEREN
 UPDATE second_table 
 SET score = 10 
-WHERE id = 3;
+WHERE name = 'Bob';
