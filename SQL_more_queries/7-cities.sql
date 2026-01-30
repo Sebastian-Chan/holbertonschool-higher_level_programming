@@ -1,5 +1,5 @@
--- CREAR BD TABLA cities Y FK CON cities
-CREATE TABLE IF NOT EXISTS hbtn_0d_usa;
+-- CREAR BD, TABLA cities Y FK CON cities
+CREATE DATABASE IF NOT EXISTS hbtn_0d_usa;
 use hbtn_0d_usa;
 
 CREATE TABLE IF NOT EXISTS cities (
